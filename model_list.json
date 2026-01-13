@@ -1,7 +1,9 @@
 {
     "models": [
-        "ShizukuTalk/shizuku-48",
-        "ShizukuTalk/shizuku-pajama",
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ],
         "KantaiCollection/murakumo"
     ],
     "messages": [
